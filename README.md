@@ -34,7 +34,7 @@ Esta landing page apresenta **cenários futuristas gerados por IAs**, combinando
 - Layout moderno, responsivo e interativo, com hover neon e fonte Orbitron.
 
 Você pode acessar o projeto online através do link:  
-[Ver Projeto](https://seu-projeto.vercel.app)
+[Ver Projeto](https://lab-natty-or-not-sigma.vercel.app/)
 
 ---
 
