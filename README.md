@@ -1,51 +1,43 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando o Futuro com IA 🌌
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Esta landing page apresenta **cenários futuristas gerados por IAs**, combinando imagens e vídeos para criar uma experiência imersiva. O projeto mostra como as IAs generativas podem ser aplicadas na criação de conteúdo visual moderno e interativo.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- **HTML5** e **CSS3** para estrutura e estilo.
+- **JavaScript** para interatividade (lightbox para imagens).
+- **Fonte Orbitron** para estética futurista.
+- **Gemini AI** para gerar imagens e vídeos realistas.
+- **Vercel** para deploy online.
+- **ChatGPT** – auxílio na concepção, design e prompts
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. **Planejamento**: Defini os cenários futuristas que gostaria de criar.
+2. **Geração de Conteúdo**: Usei o **Gemini AI** para criar 3 imagens e 2 vídeos com prompts específicos.
+3. **Desenvolvimento Front-end**: Estruturei a landing page com HTML, estilizei com CSS (grid responsivo, efeitos neon) e adicionei interatividade via JS (lightbox).
+4. **Testes**: Verifiquei responsividade, hover, lightbox e compatibilidade entre navegadores.
+5. **Deploy**: A página foi hospedada no **Vercel** para acesso online.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+- **3 imagens futuristas** clicáveis com **lightbox**:
+- **2 vídeos futuristas** integrados e responsivos.
+- Layout moderno, responsivo e interativo, com hover neon e fonte Orbitron.
 
-### Exemplos e Insigths
+Você pode acessar o projeto online através do link:  
+[Ver Projeto](https://seu-projeto.vercel.app)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+---
 
-## Links Interessantes
+## 💭 Reflexão
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar essa landing page foi uma experiência incrível para explorar o **potencial criativo das IAs generativas**, aprendendo a combinar **conteúdo visual com interatividade web**. A sensação de ver o design cyberpunk ganhar vida com imagens e vídeos gerados por IA mostra como essas tecnologias podem transformar projetos digitais.
