@@ -13,7 +13,7 @@ Esta landing page apresenta **cenários futuristas gerados por IAs**, combinando
 - **Fonte Orbitron** para estética futurista.
 - **Gemini AI** para gerar imagens e vídeos realistas.
 - **Vercel** para deploy online.
-- **ChatGPT** – auxílio na concepção, design e prompts
+- **ChatGPT** – auxílio na concepção, design e prompts.
 
 ---
 
